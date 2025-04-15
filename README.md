@@ -1,4 +1,4 @@
-# 📊 Tesla Stock Price Analysis (14 Years) 🐍
+# 📊 Tesla Stock Price Analysis (14 Years) 
 
 This project is a comprehensive exploratory data analysis (EDA) of **Tesla's stock price over the past 14 years**, using Python and popular data science libraries. It focuses on visualizing trends, analyzing distributions, identifying correlations, and testing hypotheses.
 
